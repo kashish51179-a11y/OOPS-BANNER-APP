@@ -1,5 +1,5 @@
-public class OopsBannerAppUC1 {
-   public OopsBannerAppUC1() {
+public class uc1 {
+   public uc1() {
    }
 
    public static void main(String[] var0) {
