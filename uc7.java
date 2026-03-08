@@ -2,7 +2,7 @@
  * OOPS Banner App - UC7
  * Displays the word OOPS using stored character patterns.
  */
-public class OOPSBannerApp {
+public class uc7 {
 
     /**
      * Inner Static Class to store character and its banner pattern
